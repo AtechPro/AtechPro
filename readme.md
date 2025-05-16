@@ -4,8 +4,11 @@
 ### 🧠 Born to Become Network Engineer , Forced to Become Software Engineer
 
 Wanted to configure routers.  
+
 Ended up debugging Flask routes instead.  
+
 Still confused. Still building. 🔌➡️📦
+
 Ahh bodo lah, cacat sana sini, well ndapalah
 
 ---
