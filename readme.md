@@ -89,4 +89,4 @@ Soo I can't say my system is perfect, I still long way to learn, Its also of cos
 - Do Proper CI/CD, don't Be like Me, but even with that I believe I will improve my CI/CD Skill to ensuring Better Security 
 - Learn CyberSecurity and the best practice to make your system more secure 
 - Leverage AI not Dependant On It, you will regret later, I still somehow relying 😭
-- Well mostly people don't care, at least it work then you should fine, [SE but SE](#se-but-se-philosophy), or K.I.S.S formation (Keep It Simple, Senang)
+- Well mostly people don't care, at least it work then you should fine, [SE but SE](## 💡 "SE but SE" Philosophy™), or K.I.S.S formation (Keep It Simple, Senang)
