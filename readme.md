@@ -11,11 +11,11 @@ I Interest are Including:
   
   ![Hatsune Miku](https://media1.tenor.com/m/9XupE5c65cQAAAAC/vocaloid-proseka.gif)
   
-- ☁️ Cloudy stuff (mostly to avoid writing UI)
+- ☁️ Cloud Computing and Virtualization but yet still Skill issue about manage resources
 
   ![Cloud Computing Ahh Graphic](https://media1.tenor.com/m/7LhBdg_8MfYAAAAC/blue-square.gif)
   
-- 📤 Sending localhost projects into the internet with **network tunnels**
+- 📤 Sending localhost projects into the internet with **network tunnels**, if i can ~(this would be the next project after internship)~ 
 
   ![Going To the Internet](https://github.com/user-attachments/assets/4202457b-a5e9-41b7-87a9-5e58685c6fbd)
 
