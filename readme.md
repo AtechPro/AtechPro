@@ -1,15 +1,4 @@
-#  Sup, My Name is AtechPro5.0Ghz, people call me either IllyaAtech or Tea Peach, depends, mostly i conceal my name until got interviewed or somehting
----
-
-### 🧠 Born to Become Network Engineer , Forced to Become Software Engineer
-
-Wanted to configure routers.  
-
-Ended up debugging Flask routes instead.  
-
-Still confused. Still building. 🔌➡️📦
-
-Ahh bodo lah, cacat sana sini, well ndapalah
+#  Yokoso Watashi no Github Profile 
 
 ---
 
@@ -39,6 +28,23 @@ I love:
 - 🖥️Networking and Architecture 
 
   ![Networking ahh picture](https://github.com/user-attachments/assets/26c7f964-7dc9-445c-a904-50e9afc0be25)
+  
+---
+
+### 🧠 Born to Become Network Engineer , Forced to Become Software Engineer
+
+Wanted to configure Networking.  
+
+Ended to configuring Flask Routes, ~or Even worst React/Vue/Js based Routes~.  
+
+Unknown to be Generalist 
+
+Nor to become Specialist
+
+Soo As I Pray, Unlimited Computing Works 
+
+
+_Ahh bodo lah, cacat sana sini, everytime is obsticle_
 
 
 ---
