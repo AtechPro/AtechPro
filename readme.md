@@ -20,9 +20,22 @@ I love:
   ![Hatsune Miku](https://media1.tenor.com/m/9XupE5c65cQAAAAC/vocaloid-proseka.gif)
   
 - ☁️ Cloudy stuff (mostly to avoid writing UI)
+
+  ![Cloud Computing Ahh Graphic](https://media1.tenor.com/m/7LhBdg_8MfYAAAAC/blue-square.gif)
+  
 - 📤 Sending localhost projects into the internet with **network tunnels**
+
+  ![Into the World of IT Ahh Graphic](https://media1.tenor.com/m/7-CNilpY-l8AAAAd/link-start-sao.gif)
+
+  
 - 🐍 Writing Python, Asal Jalan Ahh Dya la tu (If its Work, Overengineer it until regret)
-- Networking 
+
+  ![Gila2 Paiton](https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif)
+
+  
+- 🖥️Networking and Architecture 
+
+  ![Networking ahh picture](https://github.com/user-attachments/assets/26c7f964-7dc9-445c-a904-50e9afc0be25)
 
 
 ---
