@@ -15,10 +15,11 @@ Ahh bodo lah, cacat sana sini, well ndapalah
 AtechPro, but noob at SWE Development 
 
 I love:
-- 🕸️ Building things that *connect to other things*
+- 🕸️ Building things that *connect to other things*,
+  ![Hatsune Miku](https://tenor.com/view/vocaloid-proseka-colorful-stage-project-sekai-puroseka-gif-17688917863034447300)
 - ☁️ Cloudy stuff (mostly to avoid writing UI)
 - 📤 Sending localhost projects into the internet with **network tunnels**
-- 🐍 Writing Python that sometimes works
+- 🐍 Writing Python, Asal Jalan Ahh Dya la tu (If its Work, Overengineer it until regret)
 - Networking 
 
 
