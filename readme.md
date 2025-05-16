@@ -15,7 +15,7 @@ Ahh bodo lah, cacat sana sini, well ndapalah
 AtechPro, but noob at SWE Development 
 
 I love:
-- 🕸️ Building things that *connect to other things*,
+- 🕸️ Building things that *connect to other things*, like dream of hatsune miku (ig i still not watch project sekai movie)
   
   ![Hatsune Miku](https://media1.tenor.com/m/9XupE5c65cQAAAAC/vocaloid-proseka.gif)
   
