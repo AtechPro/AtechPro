@@ -1,7 +1,4 @@
 #  Welcome to @AtechPro's Git Profile, Im AtechPro5.0Ghz, alternativaly IllyaAtech, or AtechP
-
-
-
 ---
 
 ### 🧠 Born to Become Network Engineer , Forced to Become Software Engineer
@@ -13,7 +10,7 @@ Ahh bodo lah, cacat sana sini, well ndapalah
 
 ---
 
-## 👨‍💻 だれですが？　是谁呢？sepa ni? 
+## 👨‍💻 だれですが？ 是谁呢？sepa ni? 
 
 AtechPro, but noob at SWE Development 
 
