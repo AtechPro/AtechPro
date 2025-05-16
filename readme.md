@@ -61,7 +61,8 @@ _Ahh bodo lah, cacat sana sini, everytime is obsticle_
 
 ---
 
-## 💡 "SE but SE" Philosophy™
+## 💡 "SE but SE" Philosophy™\
+#-se-but-se
 
 > **Simple & Easy, but Special Edition.**  
 > **Sufficient & Efficient, but with Superior Execution.**
