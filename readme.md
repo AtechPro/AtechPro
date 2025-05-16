@@ -22,12 +22,6 @@ I love:
 - Networking 
 
 
-> Am I a software engineer?  
-> Forced, yes
-
-> Do my system is Useful?
-> somehow ig 
-
 ---
 
 ## 🛠️ Currently Playing With:
