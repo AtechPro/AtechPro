@@ -18,7 +18,7 @@ Ahh bodo lah, cacat sana sini, well ndapalah
 AtechPro, but noob at SWE Development 
 
 I love:
-- 🕸️ Building things that *connect to other things*, like dream of hatsune miku (ig i still not watch project sekai movie)
+- 🕸️ Building things that *connect to other things*, like dream of hatsune miku (ig i still not watch project sekai movie), Hand in hand 強い気持ちは
   
   ![Hatsune Miku](https://media1.tenor.com/m/9XupE5c65cQAAAAC/vocaloid-proseka.gif)
   
@@ -28,7 +28,7 @@ I love:
   
 - 📤 Sending localhost projects into the internet with **network tunnels**
 
-  ![Into the World of IT Ahh Graphic](https://media1.tenor.com/m/7-CNilpY-l8AAAAd/link-start-sao.gif)
+  ![Going To the Internet](https://github.com/user-attachments/assets/4202457b-a5e9-41b7-87a9-5e58685c6fbd)
 
   
 - 🐍 Writing Python, Asal Jalan Ahh Dya la tu (If its Work, Overengineer it until regret)
@@ -49,9 +49,9 @@ I love:
 |-------|----------|
 | 🐍 Python | Most comfortable Programming Language, AI also use this btw |
 | 🧪 Flask | at least better then PHP gila ahh, would consider using node.js in future |
-| ⚙️ SQLAlchemy | I want to be more readable Database, but sadly i will need to drop to make manageble database (like rely cloud) |
+| ⚙️ SQLAlchemy | I want to be more readable Database, but sadly i will need to drop to make manageble database, make them flexible if needed |
 | 🐳 Docker | Easier Deployment, I don't want to install dependancy one by one, gilakah |
-| 🧠 AI tools (Ollama, SD Web UI) | Because i Have Skill issue when coding paham2 la |
+| 🧠 AI Tools such as  ChatGPT and Chinese Counterfeit and the local AI. Ollama | Generate Idea And coding |
 
 ---
 
@@ -60,10 +60,9 @@ I love:
 > **Simple & Easy, but Special Edition.**  
 > **Sufficient & Efficient, but with Superior Execution.**
 
-
 ---
 
-## 🔭 My Professincy :
+## 🔭 My Proficiency :
 
 - paiton flask
 - vanila js
@@ -77,13 +76,17 @@ I love:
 
 ## ⚖️ Life Rule: Everything come with Cost
 
-Soo I can't say my system is perfect, I still long way to learn
+Every feature merged on GitHub carries a cost: increased complexity, potential for bugs, and the ongoing effort of maintenance.
+
+Soo I can't say my system is perfect, I still long way to learn, Its also of cost of coding issues. but you know **_Everything is Always Come with cost, Despite is free_**
 
 ---
 
 ## Kata-Kata Semangat (Piece of Advices)
 
 - Learn Networking, and Software
-- Read Documentation
+- Read Documentation, or again Leverage AI to read documentation
 - Do Proper CI/CD, don't Be like Me, but even with that I believe I will improve my CI/CD Skill to ensuring Better Security 
-- Learn CyberSecurity 
+- Learn CyberSecurity and the best practice to make your system more secure 
+- Leverage AI not Dependant On It, you will regret later, I still somehow relying 😭
+- Well mostly people don't care, at least it work then you should fine, [SE but SE](#se-but-se-philosophy), or K.I.S.S formation (Keep It Simple, Senang)
