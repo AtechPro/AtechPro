@@ -24,7 +24,8 @@ I love:
 
 > Am I a software engineer?  
 > Forced, yes
-> Do my system is Useful 
+
+> Do my system is Useful
 > somehow ig 
 
 ---
