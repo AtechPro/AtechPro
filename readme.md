@@ -16,7 +16,9 @@ AtechPro, but noob at SWE Development
 
 I love:
 - 🕸️ Building things that *connect to other things*,
+  
   ![Hatsune Miku](https://media1.tenor.com/m/9XupE5c65cQAAAAC/vocaloid-proseka.gif)
+  
 - ☁️ Cloudy stuff (mostly to avoid writing UI)
 - 📤 Sending localhost projects into the internet with **network tunnels**
 - 🐍 Writing Python, Asal Jalan Ahh Dya la tu (If its Work, Overengineer it until regret)
