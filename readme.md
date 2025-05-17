@@ -33,15 +33,23 @@ My Interest are Including:
 
 ### 🧠 Born to Become Network Engineer , Forced to Become Software Engineer
 
-Wanted to configure Networking.  
+>I am the code of my system.
+>Containers are my body, and broken builds are my blood.
 
-Ended to configuring Flask Routes, ~or Even worst React/Vue/Js Routers~.  
+>I Pushed a thousands commit
+>Unknown to revert,
+>Nor known to docker build -t .
 
-Unknown to be Generalist 
+>Have withstood vague AI replies to fix countless issues.
+>Yet the prompt not fixing anything.
 
-Nor to become Specialist
+>I write not for joy,
+>But because Im force to become Software Engineer
 
-Soo As I Pray, Unlimited Computing Works 
+>So as I pray—
+>Unlimited Computing Works
+
+
 
 
 _Ahh bodo lah, cacat sana sini, everytime is obsticle_
