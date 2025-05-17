@@ -2,11 +2,11 @@
 
 ---
 
-## 👨‍💻 だれですが？ 是谁呢？sepa ni? 
+## 👨‍💻 Who This? Sepa Ni?? だれですが？ 是谁呢？
 
 My Name is AtechPro5.0Ghz, People call me AtechPro, or IllyaAtech Alternatively 
 
-I Interest are Including:
+My Interest are Including:
 - 🕸️ Building things that *connect to other things*, like dream of hatsune miku (ig i still not watch project sekai movie) connecting people together, Hand in hand 強い気持ちは
   
   ![Hatsune Miku](https://media1.tenor.com/m/9XupE5c65cQAAAAC/vocaloid-proseka.gif)
