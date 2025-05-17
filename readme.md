@@ -17,7 +17,7 @@ My Interest are Including:
   
 - 📤 Sending localhost projects into the internet with **network tunnels**, if i can ~(this would be the next project after internship)~ 
 
-  ![Going To the Internet](https://github.com/user-attachments/assets/4202457b-a5e9-41b7-87a9-5e58685c6fbd)
+  ![Going To the Internet](https://media1.tenor.com/m/-r7i40IWofYAAAAC/call-calling.gif)
 
   
 - 🐍 Writing Python, Asal Jalan Ahh Dya la tu (If its Work, Overengineer it until regret)
@@ -27,7 +27,7 @@ My Interest are Including:
   
 - 🖥️Networking and Architecture 
 
-  ![Networking ahh picture](https://github.com/user-attachments/assets/26c7f964-7dc9-445c-a904-50e9afc0be25)
+  ![Networking ahh picture](https://media1.tenor.com/m/EhIf9tmcZqUAAAAC/ipfs-inter-planetary-file-system.gif)
   
 ---
 
@@ -35,7 +35,7 @@ My Interest are Including:
 
 Wanted to configure Networking.  
 
-Ended to configuring Flask Routes, ~or Even worst React/Vue/Js based Routes~.  
+Ended to configuring Flask Routes, ~or Even worst React/Vue/Js Routers~.  
 
 Unknown to be Generalist 
 
@@ -57,7 +57,7 @@ _Ahh bodo lah, cacat sana sini, everytime is obsticle_
 | 🧪 Flask | at least better then PHP gila ahh, would consider using node.js in future |
 | ⚙️ SQLAlchemy | I want to be more readable Database, but sadly i will need to drop to make manageble database, make them flexible if needed |
 | 🐳 Docker | Easier Deployment, I don't want to install dependancy one by one, gilakah |
-| 🧠 AI Tools such as  ChatGPT and Chinese Counterfeit and the local AI. Ollama | Generate Idea And coding |
+| 🧠 AI Tools such as ChatGPT and Its's Chinese Counterfeit and the local AI. Ollama | Generate Idea And coding |
 
 ---
 
@@ -71,13 +71,13 @@ _Ahh bodo lah, cacat sana sini, everytime is obsticle_
 
 ## 🔭 My Proficiency :
 
-- paiton flask
-- vanila js
+- Paiton flask
+- Vanila js ~(Still working around here)~
 - sqlalchemy 
-- ~considering OpenWRT~
-- ~considering HomeLab~
-- Fixing Laptop
-- IoT (Entry Level) 
+- ~Considering OpenWRT in the future~
+- ~Considering HomeLab in the future~
+- Fixing Laptop or Restoring Electronics
+- IoT (Entry Level), ESP8266 with MQTT Protocol
 
 ---
 
