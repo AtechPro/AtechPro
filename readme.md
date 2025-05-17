@@ -35,17 +35,17 @@ My Interest are Including:
 
 >I am the code of my system.
 >Containers are my body, and broken builds are my blood.
-
+>
 >I Pushed a thousands commit
 >Unknown to revert,
 >Nor known to docker build -t .
-
+>
 >Have withstood vague AI replies to fix countless issues.
 >Yet the prompt not fixing anything.
-
+>
 >I write not for joy,
 >But because Im force to become Software Engineer
-
+>
 >So as I pray—
 >Unlimited Computing Works
 
