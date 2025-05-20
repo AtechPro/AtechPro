@@ -15,7 +15,7 @@ My Interest are Including:
 
   ![Cloud Computing Ahh Graphic](https://media1.tenor.com/m/7LhBdg_8MfYAAAAC/blue-square.gif)
   
-- 📤 Sending localhost projects into the internet with **network tunnels**, if i can ~(this would be the next project after internship)~ 
+- 📤 Sending localhost projects into the internet with **network tunnels** <details> if i can (this would be the next project after internship) </details>
 
   ![Going To the Internet](https://media1.tenor.com/m/-r7i40IWofYAAAAC/call-calling.gif)
 
