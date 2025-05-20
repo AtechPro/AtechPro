@@ -1,13 +1,13 @@
-#  Yokoso Watashi no Github Profile 
+#  👋😁 Yokoso Watashi no Github Profile 
 
 ---
 
-## 👨‍💻 Who This? Sepa Ni?? だれですが？ 是谁呢？
+## 👨‍💻 Who This? Sepa Ni?? だれですが？ 是谁呢？🤔
 
-My Name is AtechPro5.0Ghz, People call me AtechPro, or IllyaAtech Alternatively 
+My Name is AtechPro5.0Ghz, People call me AtechPro, or IllyaAtech Somehow, real name will be concealed  until given, or could be hiring asking 
 
 My Interest are Including:
-- 🕸️ Building things that *connect to other things*, like dream of hatsune miku (ig i still not watch project sekai movie) connecting people together, Hand in hand 強い気持ちは
+- 🕸️ Building things that *connect to other things*, like dream of hatsune miku (ig i still not yet watch project sekai movie) connecting people together, Hand in hand 強い気持ちは
   
   ![Hatsune Miku](https://media1.tenor.com/m/9XupE5c65cQAAAAC/vocaloid-proseka.gif)
   
@@ -49,15 +49,11 @@ My Interest are Including:
 >So as I pray—
 >Unlimited Computing Works
 
-
-
-
 _Ahh bodo lah, cacat sana sini, everytime is obsticle_
-
 
 ---
 
-## 🛠️ Currently Playing With:
+## 🛠️ Currently Stack or tool used:
 
 | Stack | Use Case |
 |-------|----------|
@@ -65,7 +61,7 @@ _Ahh bodo lah, cacat sana sini, everytime is obsticle_
 | 🧪 Flask | at least better then PHP gila ahh, would consider using node.js in future |
 | ⚙️ SQLAlchemy | I want to be more readable Database, but sadly i will need to drop to make manageble database, make them flexible if needed |
 | 🐳 Docker | Easier Deployment, I don't want to install dependancy one by one, gilakah |
-| 🧠 AI Tools such as ChatGPT and Its's Chinese Counterfeit and the local AI. Ollama | Generate Idea And coding |
+| 🧠 AI Tools such as ChatGPT and Its's Chinese Counterfeit and the local AI. Ollama | Generate Idea And coding, asking some fundemental question about it|
 
 ---
 
@@ -80,10 +76,10 @@ _Ahh bodo lah, cacat sana sini, everytime is obsticle_
 ## 🔭 My Proficiency :
 
 - Paiton flask
-- Vanila js ~(Still working around here)~
+- Vanila js (Still working around here)
 - sqlalchemy 
-- ~Considering OpenWRT in the future~
-- ~Considering HomeLab in the future~
+- Considering OpenWRT in the future
+- Considering HomeLab in the future
 - Fixing Laptop or Restoring Electronics
 - IoT (Entry Level), ESP8266 with MQTT Protocol
 
