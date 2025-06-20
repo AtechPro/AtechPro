@@ -48,27 +48,14 @@ My Interest are Including:
 
 ## 🧰 Tech Stack / Proficiency
 
-<div align="center">
+| Category | Tools & Tech |
+|---------|--------------|
+| **Languages & Scripting** | ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) |
+| **Backend / Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=for-the-badge&logo=databricks&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) |
+| **IoT Protocol / Devices** | ![MQTT](https://img.shields.io/badge/MQTT-1882B3?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-IoT-grey?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Networking & Hardware** | ![OpenWRT](https://img.shields.io/badge/OpenWRT-considering-darkgreen?style=for-the-badge&logo=OpenWRT&logoColor=white) ![HomeLab](https://img.shields.io/badge/HomeLab-in%20progress-blue?style=for-the-badge&logo=serverfault&logoColor=white) ![Repair](https://img.shields.io/badge/PC%20Fixing-yes-success?style=for-the-badge&logo=windows&logoColor=white) |
 
-### Languages & Frameworks  
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=for-the-badge&logo=databricks&logoColor=white)](https://www.sqlalchemy.org)
-
-### Tools, Infra & DevOps  
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
-![MQTT](https://img.shields.io/badge/MQTT-1882B3?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-IoT-grey?style=for-the-badge&logo=arduino&logoColor=white)
-
-### Networking & Other Tech  
-![OpenWRT](https://img.shields.io/badge/OpenWRT-considering-darkgreen?style=for-the-badge&logo=OpenWRT&logoColor=white)
-![HomeLab](https://img.shields.io/badge/HomeLab-in%20progress-blue?style=for-the-badge&logo=serverfault&logoColor=white)
-![Repair](https://img.shields.io/badge/PC%20Fixing-yes-success?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
 
 ---
 
