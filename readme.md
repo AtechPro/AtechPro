@@ -28,12 +28,12 @@ My Interest are Including:
 
 | Category | Tools & Tech |
 | :--- | :--- |
-| **Languages & Scripting** | ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bash](https://skillicons.dev/icons?i=bash) |
-| **Backend / Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=for-the-badge&logo=databricks&logoColor=white) |
-| **Containers & Virtualization** | ![Docker](https://skillicons.dev/icons?i=docker) |
-| **OS & Environments** | ![Arch Linux](https://skillicons.dev/icons?i=arch) ![Fedora](https://skillicons.dev/icons?i=fedora) ![Debian](https://skillicons.dev/icons?i=debian) ![Linux](https://skillicons.dev/icons?i=linux) |
-| **Networking & Zero Trust** | ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![Tailscale](https://img.shields.io/badge/Tailscale-9933FF?style=for-the-badge&logo=tailscale&logoColor=white) ![Netbird](https://img.shields.io/badge/Netbird-Active-orange?style=for-the-badge&logo=wireguard&logoColor=white) ![ZeroTier](https://img.shields.io/badge/ZeroTier-Connected-yellow?style=for-the-badge&logo=zerotier&logoColor=white) ![OpenWRT](https://img.shields.io/badge/OpenWRT-Considering-darkgreen?style=for-the-badge&logo=openwrt&logoColor=white) |
-| **Self-Hosting & Hardware** | ![HomeLab](https://img.shields.io/badge/HomeLab-atpserver.sbs-blue?style=for-the-badge&logo=serverfault&logoColor=white) ![PC Repair](https://img.shields.io/badge/Hardware%20Repair-Component%20Level-success?style=for-the-badge&logo=windows&logoColor=white) |
+| **Languages & Scripting** | ![Language](https://go-skill-icons.vercel.app/api/icons?i=python,terraform,javascript,bash) |
+| **Backend / Frameworks** | ![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,sqlite) |
+| **Containers & Virtualization** | ![container](https://go-skill-icons.vercel.app/api/icons?i=docker) |
+| **OS & Environments** | ![OS](https://go-skill-icons.vercel.app/api/icons?i=arch,fedora,debian,ubuntu,proxmox,raspberrypi) |
+| **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare) |
+| **Self-Hosting & Hardware** |  ![PC Repair](https://img.shields.io/badge/Hardware%20Repair-Component%20Level-success?style=for-the-badge&logo=windows&logoColor=white) |
 | **IoT & Automation** | ![MQTT](https://img.shields.io/badge/MQTT-1882B3?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-IoT-grey?style=for-the-badge&logo=arduino&logoColor=white) |
 | **Version Control** | ![Git](https://skillicons.dev/icons?i=git) |
 
