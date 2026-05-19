@@ -13,10 +13,10 @@ My Interest are Including:
 - ☁️ Cloud Computing and Virtualization but yet still Skill issue about manage resources  
   ![Cloud Computing Ahh Graphic](https://media1.tenor.com/m/7LhBdg_8MfYAAAAC/blue-square.gif)
 
-- 📤 Sending localhost projects into the internet with **network tunnels** <details> this would be the next project after internship </details>  
+- 📤 Sending localhost projects into the internet with **network tunnels** via cloudflare tunnel, maybe tailscale </details>  
   ![Going To the Internet](https://media1.tenor.com/m/-r7i40IWofYAAAAC/call-calling.gif)
 
-- 🐍 Writing Python, Asal Jalan Ahh Dya la tu (If its Work, Overengineer it until regret)  
+- 🐍 Writing Python, Asal Jalan Ahh Dya la tu (If its Work, Overengineer it until regret) , to be honest, i love docker more and Proxmox 
   ![Gila2 Paiton](https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif)
 
 - 🖥️ Networking and Architecture  
@@ -24,38 +24,18 @@ My Interest are Including:
 
 ---
 
-### 🧠 Born to Become Network Engineer , Forced to Become Software Engineer
-
-> I am the code of my system.  
-> Containers are my body, and broken builds are my blood.  
->
-> I Pushed a thousands commit  
-> Unknown to revert,  
-> Nor known to docker build -t .  
->
-> Have withstood vague AI replies to fix countless issues.  
-> Yet the prompt not fixing anything.  
->
-> I write not for joy,  
-> But because I'm forced to become Software Engineer.  
->
-> So as I pray—  
-> Unlimited Computing Works  
->
-> _Ahh bodo lah, cacat sana sini, everytime is obstacle._
-
----
-
-## 🧰 Tech Stack / Proficiency
+# Homelab & Technical Stack
 
 | Category | Tools & Tech |
-|---------|--------------|
-| **Languages & Scripting** | ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) |
+| :--- | :--- |
+| **Languages & Scripting** | ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bash](https://skillicons.dev/icons?i=bash) |
 | **Backend / Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=for-the-badge&logo=databricks&logoColor=white) |
-| **DevOps & Infra** | ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) |
-| **IoT Protocol / Devices** | ![MQTT](https://img.shields.io/badge/MQTT-1882B3?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-IoT-grey?style=for-the-badge&logo=arduino&logoColor=white) |
-| **Networking & Hardware** | ![OpenWRT](https://img.shields.io/badge/OpenWRT-considering-darkgreen?style=for-the-badge&logo=OpenWRT&logoColor=white) ![HomeLab](https://img.shields.io/badge/HomeLab-in%20progress-blue?style=for-the-badge&logo=serverfault&logoColor=white) ![Repair](https://img.shields.io/badge/PC%20Fixing-yes-success?style=for-the-badge&logo=windows&logoColor=white) |
-
+| **Containers & Virtualization** | ![Docker](https://skillicons.dev/icons?i=docker) |
+| **OS & Environments** | ![Arch Linux](https://skillicons.dev/icons?i=arch) ![Fedora](https://skillicons.dev/icons?i=fedora) ![Debian](https://skillicons.dev/icons?i=debian) ![Linux](https://skillicons.dev/icons?i=linux) |
+| **Networking & Zero Trust** | ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![Tailscale](https://img.shields.io/badge/Tailscale-9933FF?style=for-the-badge&logo=tailscale&logoColor=white) ![Netbird](https://img.shields.io/badge/Netbird-Active-orange?style=for-the-badge&logo=wireguard&logoColor=white) ![ZeroTier](https://img.shields.io/badge/ZeroTier-Connected-yellow?style=for-the-badge&logo=zerotier&logoColor=white) ![OpenWRT](https://img.shields.io/badge/OpenWRT-Considering-darkgreen?style=for-the-badge&logo=openwrt&logoColor=white) |
+| **Self-Hosting & Hardware** | ![HomeLab](https://img.shields.io/badge/HomeLab-atpserver.sbs-blue?style=for-the-badge&logo=serverfault&logoColor=white) ![PC Repair](https://img.shields.io/badge/Hardware%20Repair-Component%20Level-success?style=for-the-badge&logo=windows&logoColor=white) |
+| **IoT & Automation** | ![MQTT](https://img.shields.io/badge/MQTT-1882B3?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-IoT-grey?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Version Control** | ![Git](https://skillicons.dev/icons?i=git) |
 
 ---
 
