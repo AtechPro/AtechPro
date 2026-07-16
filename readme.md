@@ -13,13 +13,14 @@ My Interest are Including:
 - ☁️ Cloud Computing and Virtualization but yet still Skill issue about manage resources  
   ![Cloud Computing Ahh Graphic](https://media1.tenor.com/m/7LhBdg_8MfYAAAAC/blue-square.gif)
 
-- 📤 Sending localhost projects into the internet with **network tunnels** via cloudflare tunnel, maybe tailscale, ahh heck I'm Addicted to Open Source Project at this point too much github repo are interesting to depoy for my so called "usecase" </details>  
+- 📤 Sending localhost projects into the internet with **network tunnels** via cloudflare tunnel, maybe tailscale, ahh heck I'm Addicted to Open Source Project at this point too much github repo are interesting to depoy for my so called "for my own usecase" </details>  
   ![Going To the Internet](https://media1.tenor.com/m/-r7i40IWofYAAAAC/call-calling.gif)
 
 - 🐍 Well most of my Project are Python, thanks with current AI improvement, i have another addiction to do a lot of automation tool myself, for the sake of learning maybe for the sake what I can expore more. thanks AI, but also why my ram prices sky high??
   ![Gila2 Paiton](https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif)
 
 - 🖥️ Networking and Architecture, i love see computer connect each other, i love packet moving around. its felt like i see network of computers
+  
   ![Networking ahh picture](https://media1.tenor.com/m/EhIf9tmcZqUAAAAC/ipfs-inter-planetary-file-system.gif)
 
 ---
