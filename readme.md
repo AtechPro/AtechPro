@@ -35,8 +35,7 @@ My Interest are Including:
 | **OS & Environments** | ![OS](https://go-skill-icons.vercel.app/api/icons?i=arch,fedora,debian,ubuntu,raspberrypi) |
 | **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare,traefik) |
 | **AI & Local LLM** | ![AI](https://go-skill-icons.vercel.app/api/icons?i=ollama) |
-| **IoT & Automation** | ![IoT](https://go-skill-icons.vercel.app/api/icons?i=mqtt,esp8266) |
-| **Hardware & PC Repair** | ![PC Repair](https://img.shields.io/badge/Hardware%20Repair-Component%20Level-success?style=for-the-badge&logo=windows&logoColor=white) |
+| **IoT & Automation** | ![MQTT](https://cdn.simpleicons.org/mqtt) ![Espressif](https://cdn.simpleicons.org/espressif) ![ESPHome](https://cdn.simpleicons.org/esphome) ![Home Assistant](https://cdn.simpleicons.org/homeassistant) |
 | **Version Control** | ![Git](https://go-skill-icons.vercel.app/api/icons?i=github,git) |
 
 ---
