@@ -36,7 +36,7 @@ My Interest are Including:
 | **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare) |
 | **Self-Hosting & Hardware** |  ![PC Repair](https://img.shields.io/badge/Hardware%20Repair-Component%20Level-success?style=for-the-badge&logo=windows&logoColor=white) |
 | **IoT & Automation** | ![MQTT](https://img.shields.io/badge/MQTT-1882B3?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-IoT-grey?style=for-the-badge&logo=arduino&logoColor=white) |
-| **Version Control** | ![Git](https://skillicons.dev/icons?i=git) |
+| **Version Control** | ![Git](https://go-skill-icons.vercel.app/api/icons?i=github,git) |
 
 ---
 
