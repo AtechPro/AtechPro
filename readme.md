@@ -34,7 +34,7 @@ My Interest are Including:
 | **Containers & Virtualization** | ![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,proxmox) <img src="https://raw.githubusercontent.com/srl-labs/containerlab/main/docs/images/containerlab_export_white_ink.svg" height="40"> <img src="https://raw.githubusercontent.com/floci-io/floci-io.github.io/main/floci-logo.png" height="40"> |
 | **OS & Environments** | ![OS](https://go-skill-icons.vercel.app/api/icons?i=arch,fedora,debian,ubuntu,raspberrypi) |
 | **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare) <img src="https://cdn.simpleicons.org/traefikproxy" height="40"> |
-| **AI & Local LLM** | ![AI](https://go-skill-icons.vercel.app/api/icons?i=ollama,deepseek) <img src="https://cdn.simpleicons.org/opencode" height="40"> <img src="https://cdn.simpleicons.org/openrouter" height="40"> |
+| **AI Implementation** | ![AI](https://go-skill-icons.vercel.app/api/icons?i=ollama,deepseek) <img src="https://cdn.simpleicons.org/opencode" height="40"> <img src="https://cdn.simpleicons.org/openrouter" height="40"> |
 | **IoT & Automation** | <img src="https://cdn.simpleicons.org/mqtt" width="40"> <img src="https://cdn.simpleicons.org/espressif" width="40"> <img src="https://cdn.simpleicons.org/homeassistant" height="40"> |
 | **Version Control** | ![Git](https://go-skill-icons.vercel.app/api/icons?i=github,git) |
 
