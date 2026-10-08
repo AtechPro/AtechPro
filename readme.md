@@ -31,11 +31,11 @@ My Interest are Including:
 | :--- | :--- |
 | **Languages & Scripting** | ![Language](https://go-skill-icons.vercel.app/api/icons?i=python,terraform,javascript,bash) |
 | **Backend / Frameworks** | ![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,sqlite) |
-| **Containers & Virtualization** | ![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,proxmox) |
+| **Containers & Virtualization** | ![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,proxmox) <img src="https://raw.githubusercontent.com/srl-labs/containerlab/main/docs/images/containerlab_export_white_ink.svg" height="32"> <img src="https://raw.githubusercontent.com/floci-io/floci-io.github.io/main/floci-logo.png" height="32"> |
 | **OS & Environments** | ![OS](https://go-skill-icons.vercel.app/api/icons?i=arch,fedora,debian,ubuntu,raspberrypi) |
-| **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare,traefik) |
-| **AI & Local LLM** | ![AI](https://go-skill-icons.vercel.app/api/icons?i=ollama) |
-| **IoT & Automation** | <img src="https://cdn.simpleicons.org/mqtt" width="32"> <img src="https://cdn.simpleicons.org/espressif" width="32"> |
+| **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare) <img src="https://cdn.simpleicons.org/traefik" width="32"> |
+| **AI & Local LLM** | ![AI](https://go-skill-icons.vercel.app/api/icons?i=ollama,deepseek) <img src="https://cdn.simpleicons.org/opencode" height="32"> <img src="https://cdn.simpleicons.org/openrouter" height="32"> |
+| **IoT & Automation** | <img src="https://cdn.simpleicons.org/mqtt" width="32"> <img src="https://cdn.simpleicons.org/espressif" width="32"> <img src="https://cdn.simpleicons.org/homeassistant" height="32"> |
 | **Version Control** | ![Git](https://go-skill-icons.vercel.app/api/icons?i=github,git) |
 
 ---
