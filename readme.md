@@ -31,11 +31,12 @@ My Interest are Including:
 | :--- | :--- |
 | **Languages & Scripting** | ![Language](https://go-skill-icons.vercel.app/api/icons?i=python,terraform,javascript,bash) |
 | **Backend / Frameworks** | ![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,sqlite) |
-| **Containers & Virtualization** | ![container](https://go-skill-icons.vercel.app/api/icons?i=docker) |
-| **OS & Environments** | ![OS](https://go-skill-icons.vercel.app/api/icons?i=arch,fedora,debian,ubuntu,proxmox,raspberrypi) |
-| **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare) |
-| **Self-Hosting & Hardware** |  ![PC Repair](https://img.shields.io/badge/Hardware%20Repair-Component%20Level-success?style=for-the-badge&logo=windows&logoColor=white) |
-| **IoT & Automation** | ![MQTT](https://img.shields.io/badge/MQTT-1882B3?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-IoT-grey?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Containers & Virtualization** | ![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,proxmox) |
+| **OS & Environments** | ![OS](https://go-skill-icons.vercel.app/api/icons?i=arch,fedora,debian,ubuntu,raspberrypi) |
+| **Networking & Zero Trust** | ![Networking](https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare,traefik) |
+| **AI & Local LLM** | ![AI](https://go-skill-icons.vercel.app/api/icons?i=ollama) |
+| **IoT & Automation** | ![IoT](https://go-skill-icons.vercel.app/api/icons?i=mqtt,esp8266) |
+| **Hardware & PC Repair** | ![PC Repair](https://img.shields.io/badge/Hardware%20Repair-Component%20Level-success?style=for-the-badge&logo=windows&logoColor=white) |
 | **Version Control** | ![Git](https://go-skill-icons.vercel.app/api/icons?i=github,git) |
 
 ---
